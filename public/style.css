@@ -10,4 +10,22 @@
 .main-header h1 {
   margin-top: 0;
   color: #fff;
+  font-size: 35px;
 }
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.navbar-brand>img {
+    width: 20px;
+    height: 20px;
+}
+
+.avatar {
+    height: 80px;
+    width: 120px;
+    border-radius: 10px;
+    margin-right: 18px;
+    margin-top: 5px;
+    margin-bottom: -20px;
